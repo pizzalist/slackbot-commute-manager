@@ -1,10 +1,12 @@
 # 출퇴근 알림 Slack Bot
+<img width="631" alt="kimhello" src="https://github.com/pizzalist/slackbot-commute-manager/assets/108626474/5ab28128-9970-4c55-854a-0936be6a8c0d">
 
 ## 소개
 
 이 프로젝트는 Slack 사용자들에게 자동으로 출퇴근 시간 알림을 제공하는 Slack Bot을 소개합니다. 이 봇은 사용자의 일상적인 출퇴근 시간을 기반으로 설정되며, 지정된 시간에 자동으로 출근 및 퇴근 알림을 Slack 채널에 전송합니다.
 
 ## 기능
+<img width="645" alt="스크린샷 2023-12-30 오전 2 17 56" src="https://github.com/pizzalist/slackbot-commute-manager/assets/108626474/0d11b3af-60d7-4fb6-9f38-0ed696df51cc">
 
 - **자동 출퇴근 알림**: 사용자가 설정한 시간에 맞춰 출근 및 퇴근 알림설정 스레드를 전송합니다.
 - **출/퇴근 버튼**: 사용자는 출근/퇴근 시간에 맞춰 버튼을 클릭하면 자동으로 시간이 기록됩니다.
